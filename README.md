@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
@@ -69,4 +68,4 @@
 <p> Всем успешного дня! </p>
 
 </body>
-</html>
+
